@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mlanders
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mike
+- 👀 I’m interested in the internet
+- 🌱 I’m currently learning how not to break production
+- 💞️ I’m looking to collaborate on just about anything
+- 📫 How to reach me @mikelanders on Twitter
 
 <!---
 mlanders/mlanders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
